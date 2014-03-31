@@ -8,6 +8,7 @@ padding:5px 0;
 
 }
 
+
 .status .admin {
 	display:none;
 	
@@ -16,5 +17,12 @@ padding:5px 0;
 
 .status.hover .admin {
 	display:inline;
+
+}
+ 
+
+.status.hover{
+	background:#CafCfc;
+
 
 }
